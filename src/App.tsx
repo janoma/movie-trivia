@@ -61,7 +61,6 @@ const movies = [
   ["🏃⚡️⚡️⚡️", "The Flash"],
   ["🪖🇺🇸❄️🪖", "Captain America: The Winter Soldier"],
   ["😃🎬", "The Emoji Movie"],
-  ["👸🐸", "The Princess and the Frog"],
   ["💍💍 + 🏢🏢", "The Lord of the Rings: The Two Towers"],
 ].map(([nameEmoji, nameStr]) => ({ nameEmoji, nameStr } as Movie));
 
